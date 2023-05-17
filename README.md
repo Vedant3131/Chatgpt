@@ -6,6 +6,7 @@ VITE_API_URL=http://localhost:8000 to the .env file
 
 Also create another .env file in root folder in root folder and add
 OPENAI_API_KEY = YOUR_API_KEY
+
 MONGO_URI = YOUR_MONGODB_URL
 
 in vscode in root folder run the command npm i dotenv to install dotenv module
